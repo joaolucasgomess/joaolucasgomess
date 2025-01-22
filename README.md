@@ -24,7 +24,7 @@ I'm Full Stack dev ~back-end dev who knows some things about front-end~ since 20
 
 ### Databases
 
-[![My Skills](https://skillicons.dev/icons?i=postgres,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,&theme=dark)](https://skillicons.dev) [![My Skills](https://github.com/joaolucasgomess/joaolucasgomess/blob/main/sql-server-icon.svg)](https://github.com)
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=joaolucasgomess&show=prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
