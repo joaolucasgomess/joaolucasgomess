@@ -1,28 +1,28 @@
-<div>
-  <a target='_blank' href="https://www.linkedin.com/in/jo%C3%A3o-lucas-gomes-25b0a4250/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
+# 👋 Olá
 
-# Hi! I'm João! 👋
+Sou **Desenvolvedor Full Stack com foco em backend**, com experiência em modernização de sistemas, integrações entre plataformas e automação de processos.
 
-I'm Full Stack dev ~back-end dev who knows some things about front-end~ since 2022, Brazilian and starting to like open source
+Tenho atuado em projetos que envolvem desde **refatoração de sistemas legado** até a criação de **APIs e pipelines de CI/CD**.
 
-## 🛠️ My Skills
+---
 
-### Back-end
+## 🚀 O que eu construo
+- **APIs e sistemas web** em .NET, Django e Node.js  
+- **Integrações de sistemas** (ERPs, serviços externos e bibliotecas)  
+- **Automação e otimização de processos** em ambientes corporativos  
+- **Infraestrutura prática** com GitHub Actions e bancos de dados relacionais e NoSQL  
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,ts,express,py,django&theme=dark)](https://skillicons.dev)
+---
 
-### Front-end
+## 🛠️ Tecnologias
+- **Linguagens**: C#, Python, TypeScript/JavaScript  
+- **Frameworks**: .NET, ASP.NET Core, Django, Node.js, Vue.js  
+- **Banco de dados**: PostgreSQL, SQL Server, MongoDB  
+- **Outros**: GitHub Actions, Git  
 
-[![My Skills](https://skillicons.dev/icons?i=js,vue,tailwind,react&theme=dark)](https://skillicons.dev)
+---
 
-### Databases
-
-![My Skills](https://github.com/joaolucasgomess/joaolucasgomess/blob/main/postgress-icon.svg)⠀![My Skills](https://github.com/joaolucasgomess/joaolucasgomess/blob/main/sql-server-icon.svg)
-
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=joaolucasgomess&show=prs_merged,prs_merged_percentage&show_icons=true&theme=synthwave"/>
-  <img width="258px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucasgomess&theme=synthwave"/>
-</div>
+## 📬 Onde me encontrar
+- LinkedIn: [linkedin.com/in/joao-lucas-gomes](https://www.linkedin.com/in/joao-lucas-gomes/)  
+- GitHub: [github.com/joaolucasgomess](https://github.com/joaolucasgomess)  
+- Email: joaolucasgomesdev@gmail.com  
