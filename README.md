@@ -18,7 +18,7 @@ Tenho atuado em projetos que envolvem desde **refatoração de sistemas legado**
 - **Linguagens**: C#, Python, TypeScript/JavaScript  
 - **Frameworks**: .NET, ASP.NET Core, Django, Node.js, Vue.js  
 - **Banco de dados**: PostgreSQL, SQL Server, MongoDB  
-- **Outros**: GitHub Actions, Git  
+- **Outros**: Docker, GitHub Actions, Git  
 
 ---
 
